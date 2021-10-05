@@ -1,7 +1,7 @@
 
 # Hello ✌, my name is Filip and I'm web developer
 
-My hobby is programming, mainly web development and I want turn my passion into work.
+My hobby is programming, especially web development and I want turn my passion into work.
 
 
 
