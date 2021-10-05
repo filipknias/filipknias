@@ -25,7 +25,7 @@ My hobby is programming, mainly web development and I want turn my passion into 
 - Code: https://github.com/filipknias/MySurveys.com
 
 **Travel Tracker:** 
-- Live: https://travel-tracker-fc10f.web.app
+- Live: https://travel-tracker-fc10f.firebaseapp.com
 
 - Code: https://github.com/filipknias/travel-tracker-client
 
