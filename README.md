@@ -9,7 +9,7 @@ My hobby is programming, mainly web development and I want turn my passion into 
 
 **Front-End:** HTML, CSS/SCSS, Javascript ES6, React, Vue, React Context API, Redux
 
-**Back-End:** Node.js, Express, SQL, MongoDB, PHP, Laravel
+**Back-End:** Node.js, Express, SQL, MongoDB, PHP, Laravel, Firebase
 
 **Other:** Git, Github, Npm, Figma
 
