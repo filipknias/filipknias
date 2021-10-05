@@ -1,9 +1,24 @@
-- 👋 Hi, my name is Filip and I'm junior web developer. 
-- I have worked on few freelance projects on fiverr.
-- 👀 I'm focus on front-end but I can handle back-end as well.
-- 🌱 I’m currently learning vue.js, angular and laravel framework.
 
-<!---
-filipknias/filipknias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hello ✌, my name is Filip and I'm web developer
+
+My hobby is programming, mainly web development and I want turn my passion into work.
+
+
+
+## 🛠 Skills
+
+**Front-End:** HTML, CSS/SCSS, Javascript ES6, React, Vue, React Context API, Redux
+
+**Back-End:** Node.js, Express, SQL, MongoDB, PHP, Laravel
+
+**Other:** Git, Github, Npm, Figma
+  
+## ⛏ Experience
+
+I'm also a freelancer on Fiverr, here are some projects I have worked on:
+
+- https://go2market.eu/
+- https://roboblocks.pl/
+- https://boobify.club/
+
+  
