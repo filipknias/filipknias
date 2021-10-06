@@ -7,7 +7,7 @@ My hobby is programming, mainly web development and I want turn my passion into 
 
 ## 🛠 Skills
 
-**Front-End:** HTML, CSS/SCSS, Javascript ES6, React, Vue, React Context API, Redux
+**Front-End:** HTML, CSS/SCSS, Javascript ES6, React, Vue, Redux, Vuex
 
 **Back-End:** Node.js, Express, SQL, MongoDB, PHP, Laravel, Firebase
 
