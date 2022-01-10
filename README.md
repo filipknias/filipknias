@@ -15,6 +15,11 @@ My hobby is programming, mainly web development and I want turn my passion into 
 
 ## 🌟 Projects
 **Pet Tinder:** 
+- Live: https://sellprano.herokuapp.com
+
+- Code: https://github.com/filipknias/laravel-vue-ecommerce
+- 
+**Pet Tinder:** 
 - Live: https://pet-tinder-91cb6.firebaseapp.com
 
 - Code: https://github.com/filipknias/Pet-Tinder
