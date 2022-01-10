@@ -14,7 +14,7 @@ My hobby is programming, mainly web development and I want turn my passion into 
 **Other:** Git, Github, Npm, Figma
 
 ## 🌟 Projects
-**Pet Tinder:** 
+**E-commerce online shop:** 
 - Live: https://sellprano.herokuapp.com
 
 - Code: https://github.com/filipknias/laravel-vue-ecommerce
