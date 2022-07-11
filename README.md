@@ -1,7 +1,7 @@
 
 # Hello, my name is Filip and I'm web developer
 
-My hobby is programming, mainly web development and I want turn my passion into work.
+My hobby is programming, web development and I want turn my passion into work.
 
 
 
@@ -11,13 +11,13 @@ My hobby is programming, mainly web development and I want turn my passion into 
 
 **Back-End:** Node.js, Express, SQL, MongoDB, PHP, Laravel, Firebase
 
-**Other:** Git, Github, Npm, Figma
+**Other:** Git, Github, Npm
 
 ## 🌟 Projects
 **E-commerce online shop:** 
-- Live: https://sellprano.herokuapp.com
+- Live: https://selling-ecommerce-app.herokuapp.com/
 
-- Code: https://github.com/filipknias/laravel-vue-ecommerce
+- Code: https://github.com/filipknias/react-typescript-ecommerce
 
 **Pet Tinder:** 
 - Live: https://pet-tinder-91cb6.firebaseapp.com
@@ -34,10 +34,19 @@ My hobby is programming, mainly web development and I want turn my passion into 
 
 - Code: https://github.com/filipknias/travel-tracker-client
 
+**Expense Tracker:** 
+- Live: https://expense-tracker-a34c8.web.app/
+
+- Code: https://github.com/filipknias/expense-tracker-react
+
+**News App:** 
+- Live: https://react-news-tracker.herokuapp.com/
+
+- Code: https://github.com/filipknias/react-news-tracker
+
 ## 💰 Experience
 
 I'm also a freelancer on Fiverr, here are some projects I have worked on:
 
 - https://go2market.eu/
 - https://roboblocks.pl/
-- https://boobify.club/
