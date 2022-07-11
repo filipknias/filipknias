@@ -19,6 +19,15 @@ My hobby is programming, web development and I want turn my passion into work.
 
 - Code: https://github.com/filipknias/react-typescript-ecommerce
 
+**Expense Tracker:** 
+- Live: https://expense-tracker-a34c8.web.app/
+
+- Code: https://github.com/filipknias/expense-tracker-react
+
+**News App:** 
+- Live: https://react-news-tracker.herokuapp.com/
+
+- Code: https://github.com/filipknias/react-news-tracker
 **Pet Tinder:** 
 - Live: https://pet-tinder-91cb6.firebaseapp.com
 
@@ -33,16 +42,6 @@ My hobby is programming, web development and I want turn my passion into work.
 - Live: https://travel-tracker-fc10f.firebaseapp.com
 
 - Code: https://github.com/filipknias/travel-tracker-client
-
-**Expense Tracker:** 
-- Live: https://expense-tracker-a34c8.web.app/
-
-- Code: https://github.com/filipknias/expense-tracker-react
-
-**News App:** 
-- Live: https://react-news-tracker.herokuapp.com/
-
-- Code: https://github.com/filipknias/react-news-tracker
 
 ## 💰 Experience
 
