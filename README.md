@@ -28,6 +28,7 @@ My hobby is programming, web development and I want turn my passion into work.
 - Live: https://react-news-tracker.herokuapp.com/
 
 - Code: https://github.com/filipknias/react-news-tracker
+
 **Pet Tinder:** 
 - Live: https://pet-tinder-91cb6.firebaseapp.com
 
