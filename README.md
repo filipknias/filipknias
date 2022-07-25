@@ -25,7 +25,7 @@ My hobby is programming, web development and I want turn my passion into work.
 - Code: https://github.com/filipknias/expense-tracker-react
 
 **News App:** 
-- Live: https://react-news-tracker.herokuapp.com/
+- Live: Only localhost beacause of api restrictions
 
 - Code: https://github.com/filipknias/react-news-tracker
 
