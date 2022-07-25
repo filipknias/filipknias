@@ -34,7 +34,7 @@ My hobby is programming, web development and I want turn my passion into work.
 
 - Code: https://github.com/filipknias/Pet-Tinder
 
-**My Surveys:** 
+**Surveys App:** 
 - Live: https://my-surveys-online.herokuapp.com
 
 - Code: https://github.com/filipknias/MySurveys.com
