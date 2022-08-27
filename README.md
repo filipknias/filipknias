@@ -14,6 +14,11 @@ My hobby is programming, web development and I want turn my passion into work.
 **Other:** Git, Github, Npm
 
 ## 🌟 Projects
+**Github user finder:** 
+- Live: https://devfinder-react-typescript.herokuapp.com/?username=test22
+
+- Code: https://github.com/filipknias/devfinder-react-typescript
+
 **E-commerce online shop:** 
 - Live: https://selling-ecommerce-app.herokuapp.com/
 
