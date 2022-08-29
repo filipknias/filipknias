@@ -13,9 +13,9 @@ My hobby is programming, web development and I want turn my passion into work.
 
 **Other:** Git, Github, Npm
 
-## 🌟 Projects
+## 🌟 Best Projects
 **Github user finder:** 
-- Live: https://devfinder-react-typescript.herokuapp.com/?username=test22
+- Live: https://devfinder-react-typescript.herokuapp.com
 
 - Code: https://github.com/filipknias/devfinder-react-typescript
 
@@ -24,7 +24,7 @@ My hobby is programming, web development and I want turn my passion into work.
 
 - Code: https://github.com/filipknias/react-typescript-ecommerce
 
-**Expense Tracker:** 
+**Expense Tracker App:** 
 - Live: https://expense-tracker-a34c8.web.app/
 
 - Code: https://github.com/filipknias/expense-tracker-react
@@ -39,19 +39,14 @@ My hobby is programming, web development and I want turn my passion into work.
 
 - Code: https://github.com/filipknias/Pet-Tinder
 
-**Surveys App:** 
-- Live: https://my-surveys-online.herokuapp.com
-
-- Code: https://github.com/filipknias/MySurveys.com
-
-**Travel Tracker:** 
+**Travel Tracker App:** 
 - Live: https://travel-tracker-fc10f.firebaseapp.com
 
 - Code: https://github.com/filipknias/travel-tracker-client
 
 ## 💰 Experience
 
-I'm also a freelancer on Fiverr, here are some projects I have worked on:
+I'm also a freelancer, here are some projects I have worked on:
 
 - https://go2market.eu/
 - https://roboblocks.pl/
