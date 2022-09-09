@@ -14,11 +14,6 @@ My hobby is programming, web development and I want turn my passion into work.
 **Other:** Git, Github, Npm
 
 ## 🌟 Best Projects
-**Github user finder:** 
-- Live: https://devfinder-react-typescript.herokuapp.com
-
-- Code: https://github.com/filipknias/devfinder-react-typescript
-
 **E-commerce online shop:** 
 - Live: https://selling-ecommerce-app.herokuapp.com/
 
@@ -28,6 +23,16 @@ My hobby is programming, web development and I want turn my passion into work.
 - Live: https://expense-tracker-a34c8.web.app/
 
 - Code: https://github.com/filipknias/expense-tracker-react
+
+**Memory game:** 
+- Live: https://memory-game-typescript.herokuapp.com
+
+- Code: https://github.com/filipknias/memory-game-react
+
+**Github user finder:** 
+- Live: https://devfinder-react-typescript.herokuapp.com
+
+- Code: https://github.com/filipknias/devfinder-react-typescript
 
 **News App:** 
 - Live: Only localhost beacause of api restrictions
