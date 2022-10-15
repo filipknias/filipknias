@@ -17,7 +17,7 @@ My hobby is programming, web development and I want turn my passion into work.
 **Kanban Board App:** 
 - Live: https://kanban-board-7be56d.netlify.app
 
-- Code: https://github.com/filipknias/react-typescript-ecommerce
+- Code: https://github.com/filipknias/react-kanban-board
 
 **E-commerce online shop:** 
 - Live: https://ecommerce-online-shop-018767.netlify.app
