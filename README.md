@@ -34,11 +34,6 @@ My hobby is programming, web development and I want turn my passion into work.
 
 - Code: https://github.com/filipknias/memory-game-react
 
-**Github user finder:** 
-- Live: https://devfinder-react-typescript.herokuapp.com
-
-- Code: https://github.com/filipknias/devfinder-react-typescript
-
 **Travel Tracker App:** 
 - Live: https://travel-tracker-fc10f.firebaseapp.com
 
