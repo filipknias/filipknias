@@ -34,10 +34,10 @@ My hobby is programming, web development and I want turn my passion into work.
 
 - Code: https://github.com/filipknias/memory-game-react
 
-**Travel Tracker App:** 
-- Live: https://travel-tracker-fc10f.firebaseapp.com
+**Surveys App:** 
+- Live: https://my-surveys-online.herokuapp.com
 
-- Code: https://github.com/filipknias/travel-tracker-client
+- Code: https://github.com/filipknias/mern-surveys-app
 
 ## 💰 Experience
 
