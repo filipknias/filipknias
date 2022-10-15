@@ -7,17 +7,22 @@ My hobby is programming, web development and I want turn my passion into work.
 
 ## 🛠 Skills
 
-**Front-End:** HTML, CSS/SCSS, Javascript ES6, Typescript, React, Vue, Redux, Vuex
+**Front-End:** HTML, CSS/SCSS, Javascript ES6, Typescript, React, Redux, Redux Toolkit
 
-**Back-End:** Node.js, Express, SQL, MongoDB, PHP, Laravel, Firebase
+**Back-End:** Node.js, Express, SQL, MongoDB, Firebase
 
 **Other:** Git, Github, Npm
 
 ## 🌟 Best Projects
-**E-commerce online shop:** 
-- Live: https://selling-ecommerce-app.herokuapp.com/
+**Kanban Board App:** 
+- Live: https://kanban-board-7be56d.netlify.app
 
 - Code: https://github.com/filipknias/react-typescript-ecommerce
+
+**E-commerce online shop:** 
+- Live: https://ecommerce-online-shop-018767.netlify.app
+
+- Code: https://github.com/filipknias/react-kanban-board
 
 **Expense Tracker App:** 
 - Live: https://expense-tracker-a34c8.web.app/
@@ -25,7 +30,7 @@ My hobby is programming, web development and I want turn my passion into work.
 - Code: https://github.com/filipknias/expense-tracker-react
 
 **Memory game:** 
-- Live: https://memory-game-typescript.herokuapp.com
+- Live: https://memory-game-bf58af.netlify.app
 
 - Code: https://github.com/filipknias/memory-game-react
 
@@ -33,16 +38,6 @@ My hobby is programming, web development and I want turn my passion into work.
 - Live: https://devfinder-react-typescript.herokuapp.com
 
 - Code: https://github.com/filipknias/devfinder-react-typescript
-
-**News App:** 
-- Live: Only localhost beacause of api restrictions
-
-- Code: https://github.com/filipknias/react-news-tracker
-
-**Pet Tinder:** 
-- Live: https://pet-tinder-91cb6.firebaseapp.com
-
-- Code: https://github.com/filipknias/Pet-Tinder
 
 **Travel Tracker App:** 
 - Live: https://travel-tracker-fc10f.firebaseapp.com
