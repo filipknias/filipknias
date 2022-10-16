@@ -34,7 +34,7 @@ My hobby is programming, web development and I want turn my passion into work.
 
 - Code: https://github.com/filipknias/memory-game-react
 
-**Surveys App:** 
+**MERN Surveys App:** 
 - Live: https://my-surveys-online.herokuapp.com
 
 - Code: https://github.com/filipknias/mern-surveys-app
