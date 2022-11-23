@@ -19,6 +19,11 @@ My hobby is programming, web development and I want turn my passion into work.
 
 - Code: https://github.com/filipknias/react-kanban-board
 
+**Memory game:** 
+- Live: https://memory-game-bf58af.netlify.app
+
+- Code: https://github.com/filipknias/memory-game-react
+
 **E-commerce online shop:** 
 - Live: https://ecommerce-online-shop-018767.netlify.app
 
@@ -28,16 +33,6 @@ My hobby is programming, web development and I want turn my passion into work.
 - Live: https://expense-tracker-a34c8.web.app/
 
 - Code: https://github.com/filipknias/expense-tracker-react
-
-**Memory game:** 
-- Live: https://memory-game-bf58af.netlify.app
-
-- Code: https://github.com/filipknias/memory-game-react
-
-**MERN Surveys App:** 
-- Live: https://my-surveys-online.herokuapp.com
-
-- Code: https://github.com/filipknias/mern-surveys-app
 
 ## 💰 Experience
 
