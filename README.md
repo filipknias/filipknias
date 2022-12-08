@@ -24,6 +24,11 @@ My hobby is programming, web development and I want turn my passion into work.
 
 - Code: https://github.com/filipknias/memory-game-react
 
+**Linked list visualizer:**
+- Live: https://linked-list-visualizer-b30150.netlify.app
+
+- Code: https://github.com/filipknias/linked-list-visualizer
+
 **E-commerce online shop:** 
 - Live: https://ecommerce-online-shop-018767.netlify.app
 
