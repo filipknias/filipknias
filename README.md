@@ -14,6 +14,11 @@ My hobby is programming, web development and I want turn my passion into work.
 **Other:** Git, Github, Npm
 
 ## 🌟 Best Projects
+**E-commerce online website:** 
+- Live: https://audiophile-shop-c4aec8.netlify.app
+
+- Code: https://github.com/filipknias/audiophile-ecommerce-website
+- 
 **Kanban Board App:** 
 - Live: https://kanban-board-7be56d.netlify.app
 
@@ -28,11 +33,6 @@ My hobby is programming, web development and I want turn my passion into work.
 - Live: https://linked-list-visualizer-b30150.netlify.app
 
 - Code: https://github.com/filipknias/linked-list-visualizer
-
-**E-commerce online shop:** 
-- Live: https://ecommerce-online-shop-018767.netlify.app
-
-- Code: https://github.com/filipknias/react-typescript-ecommerce
 
 **Expense Tracker App:** 
 - Live: https://expense-tracker-a34c8.web.app/
