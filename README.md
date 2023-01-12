@@ -18,6 +18,7 @@ My hobby is programming, web development and I want turn my passion into work.
 - Live: https://audiophile-shop-c4aec8.netlify.app
 
 - Code: https://github.com/filipknias/audiophile-ecommerce-website
+
 **Kanban Board App:** 
 - Live: https://kanban-board-7be56d.netlify.app
 
