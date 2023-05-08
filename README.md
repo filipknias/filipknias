@@ -1,10 +1,3 @@
-
-# Hello, my name is Filip and I'm web developer
-
-My hobby is programming, web development and I want turn my passion into work.
-
-
-
 ## 🛠 Skills
 
 **Front-End:** HTML, CSS/SCSS, Javascript ES6, Typescript, React, Redux, Redux Toolkit
