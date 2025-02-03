@@ -36,5 +36,6 @@
 
 I'm also a freelancer, here are some projects I have worked on:
 
+- https://www.mecze24.pl/
 - https://go2market.eu/
 - https://roboblocks.pl/
