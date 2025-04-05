@@ -1,41 +1,16 @@
+##  Full-Stack Software Developer
+
+I am a software developer with two years of experience in creating responsive web applications and user interfaces. I am passionate about creating and developing web applications and constantly developing my skills. I am looking for new challenges and experience as a Front-End or Full-Stack Developer
+
 ## 🛠 Skills
 
-**Front-End:** HTML, CSS/SCSS, Javascript ES6, Typescript, React, Redux, Redux Toolkit
+**Front-End:** HTML, CSS/SCSS, TailwindCSS, Bootstrap Javascript, Typescript, React, Vue, Next.js, Redux, Redux Toolkit, Zustand
 
-**Back-End:** Node.js, Express, SQL, MongoDB, Firebase
+**Back-End:** Node.js, Express, SQL, MongoDB
 
-**Other:** Git, Github, Npm
+**Other:** Git, Docker, Figma
 
 ## 🌟 Best Projects
-**E-commerce online website:** 
-- Live: https://audiophile-shop-c4aec8.netlify.app
-
-- Code: https://github.com/filipknias/audiophile-ecommerce-website
-
-**Kanban Board App:** 
-- Live: https://kanban-board-7be56d.netlify.app
-
-- Code: https://github.com/filipknias/react-kanban-board
-
-**Memory game:** 
-- Live: https://memory-game-bf58af.netlify.app
-
-- Code: https://github.com/filipknias/memory-game-react
-
-**Linked list visualizer:**
-- Live: https://linked-list-visualizer-b30150.netlify.app
-
-- Code: https://github.com/filipknias/linked-list-visualizer
-
-**Expense Tracker App:** 
-- Live: https://expense-tracker-a34c8.web.app/
-
-- Code: https://github.com/filipknias/expense-tracker-react
-
-## 💰 Experience
-
-I'm also a freelancer, here are some projects I have worked on:
-
+- https://www.securitum.com/
+- https://www.osiedlelesznowola.pl/
 - https://www.mecze24.pl/
-- https://go2market.eu/
-- https://roboblocks.pl/
